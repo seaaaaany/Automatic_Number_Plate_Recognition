@@ -1,5 +1,5 @@
 # Automatic Number Plate Recognition
-<div style="text-align:center"><img src ="Image/vehicle-license-plates.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/vehicle-license-plates.png" /></div>
 
 ![logo](Image/vehicle-license-plates.png)
 
