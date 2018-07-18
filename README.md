@@ -1,9 +1,6 @@
-# Automatic Number Plate Recognition
-<p align="center">
+<h1 align="center"> Automatic Number Plate Recognition </h1>
 
-Using neural networks to build an automatic number plate recognition system.
-
-</p>
+<p align="center"> Using neural networks to build an automatic number plate recognition system. </p>
 
 
 
