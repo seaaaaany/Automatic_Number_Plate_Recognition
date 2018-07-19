@@ -54,6 +54,8 @@ You can click into our Linkedin
 
 ## Process 
 
+Click [here]("https://www.dropbox.com/s/nwfk2mvf6d8fqvm/weights.npz?dl=0") to download the pretrained model ```weights.npz```.
+
 <img src="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/extractbgs.gif">
 
 ## Findings 
