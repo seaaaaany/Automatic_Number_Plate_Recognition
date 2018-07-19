@@ -54,7 +54,7 @@ You can click into our Linkedin
 
 ## Process 
 
-![extractbgs]("Image/extractbgs.gif")
+![extractbgs]("https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/extractbgs.gif")
 
 ## Findings 
 
