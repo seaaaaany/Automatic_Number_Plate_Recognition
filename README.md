@@ -52,8 +52,9 @@ You can click into our Linkedin
 
    > Probably the UK's most popular number plate font. As used by the DVLA (gov.uk), HPI, Aviva, EuroCarParts and many more. It can be [download here]("https://www.dafont.com/uk-number-plate.font").
 
-
 ## Process 
+
+![extractbgs]("Image/extractbgs.gif")
 
 ## Findings 
 
