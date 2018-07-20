@@ -32,7 +32,7 @@
 ## Members
 Welcome to the Automatic number-plate recognition project! We are team **Innovators**.
 
-You can click into our Linkedin 
+Reach us through LinkedIn:
 
 -   [Cesar Castrejon](https://www.linkedin.com/in/cesar-castrejon-927164118/)
 -   [Clifford Ferraren](https://www.linkedin.com/in/clifford-ferraren/)
