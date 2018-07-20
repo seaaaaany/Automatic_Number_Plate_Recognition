@@ -54,6 +54,30 @@ You can click into our Linkedin
 
 ## Process 
 
+#### Method
+
+Neurons are kinda similar to logistic regression.
+
+<img src="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/logistic_regression.png"> 
+
+#### Synthesizing images
+
+To train any neural net a set of training data along with correct outputs must be provided. In this case this will be a set of 128x64 images along with the expected output. Here’s an illustrative sample of training data generated for this project:
+
+<img src="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/00000000_PV07NEU_1.png">
+
+<img src="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/00000001_KM05MUP_1.png">
+
+<img src="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/00000003_LK39UGD_1.png">
+
+
+
+However, the system does not always work well. Here is the failed example:
+
+<img src="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/00000002_HY03KBG_0.png">
+
+
+
 Click [here](https://www.dropbox.com/s/nwfk2mvf6d8fqvm/weights.npz?dl=0) to download the pretrained model ```weights.npz```.
 
 <img src="https://github.com/yycyjqc/Automatic_Number_Plate_Recognition/blob/master/Image/extractbgs.gif">
