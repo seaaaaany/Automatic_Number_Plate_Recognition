@@ -1,3 +1,5 @@
+![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)
+
 <h1 align="center"> Automatic Number Plate Recognition </h1>
 
 <p align="center"> Using neural networks to build an automatic number plate recognition system. </p>
