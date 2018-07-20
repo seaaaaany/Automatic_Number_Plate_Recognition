@@ -1,4 +1,7 @@
 ![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)
+![built Using TensorFlow](https://img.shields.io/badge/built%20using-TensorFlow-blue.svg)
+![built Using OpenCV](https://img.shields.io/badge/built%20using-OpenCV-brightgreen.svg)
+
 
 <h1 align="center"> Automatic Number Plate Recognition </h1>
 
