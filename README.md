@@ -38,9 +38,7 @@ Welcome to the Automatic number-plate recognition project! We are team **Innovat
 Reach us through LinkedIn:
 
 -   [Cesar Castrejon](https://www.linkedin.com/in/cesar-castrejon-927164118/)
--   [Clifford Ferraren](https://www.linkedin.com/in/clifford-ferraren/)
 -   [Sean Yu](https://www.linkedin.com/in/sean-yu-733205a6/)
--   [Tsering Sherpa](https://www.linkedin.com/in/tsering-sherpa-1171a7b4/)
 
 ## Background
 **Automatic number-plate recognition** (ANPR) is a technology that uses optical character recognition on images to read vehicle registration plates to create vehicle location data. It can use existing closed-circuit television, road-rule enforcement cameras, or cameras specifically designed for the task. 
